@@ -1,0 +1,9 @@
+{
+	"name": "dfDatafactoryAzure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b8e91d7-1332-4985-8163-db8099401c08",
+		"tenantId": "5ead90db-1647-4c8f-b06c-a870512f8ed8"
+	}
+}
